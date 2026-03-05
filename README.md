@@ -249,8 +249,22 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 Marcos Astud
 
 ## 📫 Connect With Me
 
-[![🌍 Portfolio](https://img.shields.io/badge/Website-marcosastudillo.com-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.marcosastudillo.com)
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Astudillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-astudillo-c/)
-[![🐱 GitHub](https://img.shields.io/badge/GitHub-Marcos%20Astudillo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos-astudillo)
+<p align="center">
 
-**Email:** m.astudillo1986@gmail.com
+  <a href="https://www.marcosastudillo.com">
+    <img src="https://img.shields.io/badge/Website-marcosastudillo.com-blueviolet?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/marcos-astudillo-c/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Astudillo-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/marcos-astudillo">
+    <img src="https://img.shields.io/badge/GitHub-Marcos%20Astudillo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:m.astudillo1986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.astudillo1986%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+</p>
